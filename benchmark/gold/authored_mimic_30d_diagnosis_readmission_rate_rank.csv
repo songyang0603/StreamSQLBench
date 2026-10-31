@@ -1,0 +1,4 @@
+diagnosis_code,diagnosis_name,index_admission_count,readmission_count,readmission_latency_minutes_sum
+v440,tracheostomy status,8,4,37566
+v420,kidney transplant status,7,3,54798
+70715,ulcer other part of foot,12,5,118810

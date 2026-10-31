@@ -1,0 +1,4 @@
+from_status_id,to_status_id,transition_count,rapid_transition_count
+1,5,300,300
+1,2,6778,3342
+2,3,3966,1930

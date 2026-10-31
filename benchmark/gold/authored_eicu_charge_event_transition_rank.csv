@@ -1,0 +1,4 @@
+source_eventtype,target_eventtype,transition_count,distinct_stay_count
+lab,medication,16993,678
+medication,lab,5699,704
+lab,diagnosis,4031,362
