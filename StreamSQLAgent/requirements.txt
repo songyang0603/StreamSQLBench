@@ -1,0 +1,6 @@
+sqlglot==30.15.0
+pandas==3.0.5
+numpy==2.4.6
+python-dateutil==2.9.0.post0
+six==1.17.0
+duckdb==1.5.5

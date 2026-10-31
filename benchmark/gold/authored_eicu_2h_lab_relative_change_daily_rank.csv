@@ -1,0 +1,1785 @@
+event_day,labname,changed_stays,changed_windows
+2100-01-01,creatinine,1,1
+2100-01-02,bicarbonate,1,1
+2100-01-04,bun,1,1
+2100-01-05,-monos,1,1
+2100-01-09,-eos,1,1
+2100-01-10,ast (sgot),1,1
+2100-01-11,-monos,1,1
+2100-01-12,-lymphs,1,1
+2100-01-13,bedside glucose,1,1
+2100-01-27,bedside glucose,1,1
+2100-01-28,albumin,1,1
+2100-01-30,paco2,1,1
+2100-02-05,bedside glucose,1,1
+2100-02-06,bedside glucose,1,3
+2100-02-07,anion gap,1,1
+2100-02-21,bedside glucose,1,1
+2100-02-22,bun,1,1
+2100-02-23,creatinine,1,1
+2100-02-24,bedside glucose,2,2
+2100-02-25,bedside glucose,1,1
+2100-02-26,-monos,1,1
+2100-02-27,bedside glucose,2,2
+2100-02-28,-basos,1,1
+2100-03-01,bedside glucose,2,2
+2100-03-02,bedside glucose,1,1
+2100-03-05,base excess,1,1
+2100-03-06,-monos,1,1
+2100-03-07,-monos,1,1
+2100-03-08,ast (sgot),1,1
+2100-03-09,magnesium,1,1
+2100-03-10,anion gap,1,1
+2100-03-11,alkaline phos.,1,1
+2100-03-12,bedside glucose,1,1
+2100-03-13,-lymphs,1,1
+2100-03-14,bedside glucose,1,1
+2100-03-15,glucose,2,2
+2100-03-16,-lymphs,1,1
+2100-03-17,bedside glucose,2,2
+2100-03-18,bedside glucose,2,2
+2100-03-19,-lymphs,1,1
+2100-03-20,bedside glucose,2,2
+2100-03-21,bedside glucose,1,1
+2100-03-22,-lymphs,1,1
+2100-03-23,glucose,1,1
+2100-03-24,bedside glucose,1,1
+2100-03-29,bedside glucose,1,2
+2100-03-30,-polys,1,1
+2100-03-31,hct,1,1
+2100-04-01,glucose,2,2
+2100-04-02,magnesium,1,1
+2100-04-03,bedside glucose,1,1
+2100-04-04,alkaline phos.,1,1
+2100-04-05,anion gap,1,2
+2100-04-06,creatinine,1,1
+2100-04-07,bedside glucose,1,1
+2100-04-08,bedside glucose,1,1
+2100-04-09,glucose,2,2
+2100-04-10,bedside glucose,2,2
+2100-04-11,bedside glucose,2,2
+2100-04-12,bun,1,1
+2100-04-13,potassium,1,1
+2100-04-14,ast (sgot),1,1
+2100-04-15,bedside glucose,1,1
+2100-04-16,bun,1,1
+2100-04-18,-lymphs,1,1
+2100-04-19,-lymphs,1,1
+2100-04-20,bedside glucose,1,1
+2100-04-22,glucose,1,1
+2100-04-25,base excess,1,1
+2100-04-26,bedside glucose,1,2
+2100-04-27,bedside glucose,1,2
+2100-04-28,anion gap,1,1
+2100-04-29,bedside glucose,1,1
+2100-04-30,-monos,1,1
+2100-05-01,bedside glucose,1,1
+2100-05-02,bedside glucose,1,2
+2100-05-03,-polys,1,1
+2100-05-04,albumin,1,1
+2100-05-05,-eos,1,1
+2100-05-06,ast (sgot),1,1
+2100-05-07,bun,1,1
+2100-05-08,-lymphs,1,1
+2100-05-09,bun,1,2
+2100-05-10,-lymphs,1,1
+2100-05-14,ast (sgot),1,1
+2100-05-15,creatinine,1,1
+2100-05-16,anion gap,1,1
+2100-05-17,bedside glucose,1,1
+2100-05-19,glucose,2,2
+2100-05-20,-basos,1,1
+2100-05-21,-lymphs,1,1
+2100-05-22,bicarbonate,1,2
+2100-05-23,bedside glucose,1,2
+2100-05-24,rbc,1,1
+2100-06-06,magnesium,1,1
+2100-06-07,bedside glucose,1,1
+2100-06-08,hct,1,1
+2100-06-09,albumin,1,1
+2100-06-10,bedside glucose,1,1
+2100-06-27,-basos,1,1
+2100-06-28,alkaline phos.,1,1
+2100-06-29,bedside glucose,1,1
+2100-07-01,anion gap,1,1
+2100-07-02,bedside glucose,2,3
+2100-07-14,-lymphs,1,1
+2100-07-15,hgb,1,1
+2100-07-16,alt (sgpt),1,1
+2100-07-17,anion gap,1,1
+2100-07-18,-lymphs,1,1
+2100-08-14,bedside glucose,1,1
+2100-08-15,anion gap,1,2
+2100-08-16,-lymphs,1,1
+2100-08-17,-basos,1,1
+2100-08-18,wbc x 1000,2,3
+2100-08-19,bedside glucose,1,1
+2100-08-20,bedside glucose,2,2
+2100-08-21,bedside glucose,1,1
+2100-08-22,bedside glucose,1,1
+2100-08-23,-lymphs,1,1
+2100-08-24,bedside glucose,2,2
+2100-08-25,bedside glucose,3,3
+2100-08-26,creatinine,1,1
+2100-08-27,bedside glucose,2,2
+2100-08-28,bedside glucose,2,3
+2100-08-29,bedside glucose,1,1
+2100-10-09,bun,1,1
+2100-10-10,anion gap,1,1
+2100-10-11,-basos,1,1
+2100-10-12,bedside glucose,2,2
+2100-10-13,bedside glucose,2,2
+2100-10-17,bicarbonate,1,1
+2100-11-16,bicarbonate,1,1
+2100-11-17,alt (sgpt),1,1
+2100-11-18,hgb,1,1
+2100-11-19,bedside glucose,1,1
+2100-11-20,bedside glucose,1,1
+2100-11-21,wbc x 1000,2,3
+2100-11-22,bedside glucose,2,2
+2100-11-23,bedside glucose,2,3
+2100-11-24,bedside glucose,2,2
+2100-11-25,bicarbonate,2,2
+2100-11-26,bedside glucose,2,2
+2100-11-27,bedside glucose,1,1
+2100-11-28,-lymphs,1,1
+2100-11-29,bedside glucose,2,2
+2100-11-30,base excess,1,1
+2100-12-01,bedside glucose,1,1
+2100-12-02,platelets x 1000,2,2
+2100-12-03,alkaline phos.,1,1
+2100-12-04,bedside glucose,1,1
+2100-12-05,alt (sgpt),1,1
+2100-12-06,-monos,1,1
+2100-12-07,bedside glucose,1,1
+2100-12-08,bicarbonate,1,1
+2100-12-09,anion gap,1,1
+2100-12-10,-basos,1,1
+2100-12-11,bedside glucose,1,1
+2100-12-19,alt (sgpt),1,1
+2100-12-20,bedside glucose,2,2
+2100-12-21,-polys,1,1
+2100-12-22,bedside glucose,2,2
+2100-12-23,wbc x 1000,1,2
+2100-12-24,bun,1,1
+2100-12-25,hgb,1,1
+2100-12-26,-eos,1,1
+2100-12-27,-lymphs,1,1
+2100-12-28,-polys,1,1
+2100-12-29,rbc,1,1
+2101-01-02,anion gap,1,1
+2101-01-03,wbc x 1000,1,3
+2101-01-04,bedside glucose,1,2
+2101-01-05,hct,2,2
+2101-01-06,bedside glucose,2,2
+2101-01-07,albumin,1,1
+2101-01-08,glucose,1,1
+2101-01-19,-eos,1,1
+2101-01-20,bedside glucose,1,1
+2101-01-21,albumin,1,1
+2101-01-22,bun,1,1
+2101-01-23,anion gap,1,1
+2101-01-24,-eos,1,1
+2101-01-25,glucose,1,1
+2101-01-26,bedside glucose,1,1
+2101-01-30,-monos,1,1
+2101-02-04,-lymphs,1,1
+2101-02-05,bicarbonate,1,1
+2101-02-06,direct bilirubin,1,1
+2101-02-07,glucose,1,1
+2101-02-08,creatinine,2,2
+2101-02-09,bicarbonate,2,2
+2101-02-10,anion gap,1,1
+2101-02-11,bun,1,1
+2101-02-12,-eos,1,1
+2101-02-14,bun,1,1
+2101-02-15,-monos,1,1
+2101-02-16,wbc x 1000,1,1
+2101-02-17,creatinine,2,2
+2101-02-18,-basos,1,1
+2101-02-22,bedside glucose,1,1
+2101-02-26,hgb,1,1
+2101-03-03,bun,1,1
+2101-03-04,bicarbonate,1,1
+2101-03-05,alt (sgpt),1,1
+2101-03-06,-basos,1,1
+2101-03-07,glucose,1,1
+2101-03-08,bedside glucose,2,2
+2101-03-09,bedside glucose,2,2
+2101-03-10,alt (sgpt),1,1
+2101-03-11,bedside glucose,2,3
+2101-03-12,bedside glucose,3,3
+2101-03-13,bedside glucose,2,4
+2101-03-14,bedside glucose,3,4
+2101-03-15,potassium,3,3
+2101-03-16,bedside glucose,1,1
+2101-03-18,bun,1,2
+2101-03-19,potassium,2,2
+2101-03-20,bedside glucose,1,1
+2101-03-24,anion gap,1,1
+2101-03-25,bedside glucose,1,1
+2101-03-26,-basos,1,1
+2101-03-27,bedside glucose,1,1
+2101-03-28,-monos,1,1
+2101-03-29,bedside glucose,1,4
+2101-03-30,bedside glucose,2,2
+2101-03-31,-eos,2,2
+2101-04-01,bedside glucose,2,2
+2101-04-07,alkaline phos.,1,1
+2101-04-08,bedside glucose,1,1
+2101-04-09,-lymphs,1,1
+2101-04-10,anion gap,1,1
+2101-04-11,albumin,1,1
+2101-04-12,albumin,1,1
+2101-04-13,-lymphs,1,1
+2101-04-14,mpv,1,1
+2101-04-15,wbc x 1000,1,1
+2101-04-16,total bilirubin,1,1
+2101-04-17,-monos,1,1
+2101-04-18,creatinine,1,1
+2101-04-19,bedside glucose,2,2
+2101-04-20,creatinine,2,3
+2101-04-21,bedside glucose,2,2
+2101-04-22,-monos,1,1
+2101-04-23,bedside glucose,1,1
+2101-04-25,bun,1,1
+2101-04-26,alkaline phos.,1,1
+2101-04-27,bedside glucose,1,2
+2101-04-28,creatinine,1,1
+2101-04-29,bedside glucose,2,2
+2101-04-30,bedside glucose,2,2
+2101-05-01,creatinine,3,3
+2101-05-02,bedside glucose,1,1
+2101-05-03,alt (sgpt),1,1
+2101-05-04,bedside glucose,1,1
+2101-05-05,bedside glucose,2,2
+2101-05-06,-bands,1,1
+2101-05-07,anion gap,1,1
+2101-05-08,bedside glucose,1,1
+2101-05-09,-basos,1,1
+2101-05-10,bedside glucose,2,3
+2101-05-11,-eos,1,1
+2101-05-12,bedside glucose,1,1
+2101-05-13,ast (sgot),1,1
+2101-05-14,-monos,1,1
+2101-05-15,bedside glucose,4,5
+2101-05-16,creatinine,2,2
+2101-05-17,bedside glucose,2,2
+2101-05-18,bedside glucose,2,2
+2101-05-19,creatinine,3,3
+2101-05-20,creatinine,2,2
+2101-05-21,bedside glucose,2,2
+2101-05-22,bedside glucose,1,1
+2101-05-23,ast (sgot),1,1
+2101-05-24,-polys,1,1
+2101-05-25,-monos,1,1
+2101-05-26,bedside glucose,3,4
+2101-05-27,bedside glucose,1,1
+2101-05-28,bedside glucose,2,2
+2101-05-29,bedside glucose,3,4
+2101-05-30,bedside glucose,2,2
+2101-05-31,glucose,1,1
+2101-06-01,bedside glucose,2,2
+2101-06-02,bedside glucose,2,2
+2101-06-03,bedside glucose,1,1
+2101-06-04,-eos,1,1
+2101-06-05,-monos,1,1
+2101-06-06,bedside glucose,2,2
+2101-06-07,bedside glucose,1,1
+2101-06-08,bedside glucose,1,1
+2101-06-11,creatinine,2,2
+2101-06-12,bedside glucose,1,1
+2101-06-13,bedside glucose,2,2
+2101-06-14,bedside glucose,1,1
+2101-06-15,-monos,1,1
+2101-06-16,-basos,1,1
+2101-06-17,bedside glucose,2,3
+2101-06-18,anion gap,1,1
+2101-06-19,-lymphs,1,1
+2101-06-20,albumin,1,1
+2101-06-21,-lymphs,1,1
+2101-06-28,bedside glucose,2,7
+2101-06-29,-eos,1,1
+2101-06-30,bicarbonate,1,1
+2101-07-01,bedside glucose,1,1
+2101-07-02,-lymphs,1,1
+2101-07-03,bedside glucose,1,1
+2101-07-04,bun,2,3
+2101-07-05,bedside glucose,2,2
+2101-07-06,bedside glucose,3,3
+2101-07-07,bedside glucose,1,1
+2101-07-08,bedside glucose,2,2
+2101-07-09,ast (sgot),1,1
+2101-07-10,bedside glucose,3,3
+2101-07-11,bun,2,2
+2101-07-12,wbc x 1000,2,2
+2101-07-13,anion gap,2,2
+2101-07-14,bedside glucose,3,4
+2101-07-15,bedside glucose,1,1
+2101-07-16,bedside glucose,2,3
+2101-07-17,bicarbonate,1,2
+2101-07-18,-monos,1,1
+2101-07-21,bedside glucose,1,1
+2101-07-22,bedside glucose,1,1
+2101-07-23,bedside glucose,1,1
+2101-07-24,anion gap,1,1
+2101-07-25,-polys,1,1
+2101-07-26,anion gap,1,1
+2101-07-27,-monos,1,1
+2101-07-28,bun,2,2
+2101-07-29,-lymphs,1,1
+2101-08-01,bedside glucose,1,2
+2101-08-02,bedside glucose,1,2
+2101-08-03,-monos,1,1
+2101-08-06,bedside glucose,1,1
+2101-08-07,mpv,1,1
+2101-08-14,bedside glucose,1,1
+2101-08-19,-basos,1,1
+2101-08-20,anion gap,1,1
+2101-08-21,bicarbonate,1,1
+2101-08-22,bedside glucose,1,1
+2101-08-23,-eos,1,1
+2101-08-24,bedside glucose,2,2
+2101-08-25,bedside glucose,1,2
+2101-08-26,-monos,1,1
+2101-08-27,anion gap,1,1
+2101-08-28,bicarbonate,2,2
+2101-08-29,-eos,1,1
+2101-08-30,-monos,1,1
+2101-08-31,-monos,1,1
+2101-09-01,bun,1,1
+2101-09-18,total bilirubin,1,1
+2101-09-19,anion gap,1,2
+2101-09-20,bedside glucose,1,1
+2101-09-21,bedside glucose,1,1
+2101-09-22,-lymphs,1,1
+2101-09-23,bun,1,1
+2101-09-24,creatinine,1,1
+2101-09-25,creatinine,1,1
+2101-09-26,hco3,1,1
+2101-10-03,bedside glucose,2,2
+2101-10-04,alkaline phos.,2,2
+2101-10-05,anion gap,1,1
+2101-10-06,base excess,1,1
+2101-10-07,bedside glucose,2,3
+2101-10-08,bedside glucose,2,2
+2101-10-09,bedside glucose,3,3
+2101-10-10,bedside glucose,2,2
+2101-10-11,bedside glucose,2,2
+2101-10-12,bedside glucose,2,3
+2101-10-13,-lymphs,1,1
+2101-10-14,bedside glucose,2,5
+2101-10-15,bedside glucose,2,2
+2101-10-16,-eos,1,1
+2101-10-17,bedside glucose,1,1
+2101-10-18,bedside glucose,1,1
+2101-10-19,bedside glucose,1,1
+2101-10-20,bedside glucose,1,1
+2101-10-21,bedside glucose,1,1
+2101-10-22,albumin,1,1
+2101-10-29,-monos,1,1
+2101-10-30,-polys,2,2
+2101-10-31,creatinine,2,4
+2101-11-01,wbc x 1000,2,2
+2101-11-02,bun,2,2
+2101-11-03,anion gap,2,2
+2101-11-04,-monos,1,1
+2101-11-05,bedside glucose,1,1
+2101-11-06,-lymphs,1,1
+2101-11-07,-eos,1,1
+2101-11-11,bun,1,1
+2101-11-12,bedside glucose,1,1
+2101-12-02,-monos,1,1
+2101-12-03,bedside glucose,1,1
+2101-12-04,creatinine,1,1
+2101-12-05,bedside glucose,1,1
+2101-12-07,bedside glucose,1,1
+2101-12-08,hgb,1,2
+2101-12-09,bedside glucose,2,6
+2101-12-10,bedside glucose,2,3
+2101-12-11,creatinine,1,1
+2101-12-12,-eos,1,1
+2101-12-13,-basos,2,2
+2101-12-14,hgb,2,3
+2101-12-15,wbc x 1000,3,3
+2101-12-16,-polys,1,1
+2101-12-17,hct,2,2
+2101-12-18,bedside glucose,2,2
+2101-12-19,bedside glucose,2,2
+2101-12-20,-basos,1,1
+2101-12-21,bedside glucose,2,2
+2101-12-22,bedside glucose,1,2
+2101-12-24,bun,2,2
+2101-12-25,-lymphs,1,1
+2101-12-27,-eos,1,1
+2101-12-28,albumin,1,1
+2101-12-29,platelets x 1000,1,1
+2101-12-30,potassium,2,2
+2101-12-31,phosphate,1,1
+2102-01-01,anion gap,1,1
+2102-01-02,bun,2,2
+2102-01-03,bedside glucose,3,3
+2102-01-04,bedside glucose,2,2
+2102-01-05,ast (sgot),1,1
+2102-01-06,rbc,2,2
+2102-01-07,glucose,1,1
+2102-01-09,anion gap,1,1
+2102-01-10,creatinine,2,2
+2102-01-11,bedside glucose,1,1
+2102-01-12,bedside glucose,2,3
+2102-01-13,wbc x 1000,2,2
+2102-01-14,glucose,2,2
+2102-01-15,anion gap,2,2
+2102-01-16,hct,2,2
+2102-01-17,anion gap,1,1
+2102-01-18,bedside glucose,1,2
+2102-01-19,bedside glucose,1,2
+2102-01-20,-lymphs,1,1
+2102-01-22,-polys,1,1
+2102-01-25,bicarbonate,1,1
+2102-01-26,-eos,1,1
+2102-01-27,bun,1,1
+2102-01-28,bun,1,1
+2102-01-29,bedside glucose,1,1
+2102-01-30,wbc x 1000,2,2
+2102-01-31,bedside glucose,2,2
+2102-02-01,-basos,1,1
+2102-02-02,albumin,1,1
+2102-02-03,bicarbonate,2,2
+2102-02-04,bun,2,2
+2102-02-05,bun,2,2
+2102-02-06,albumin,1,1
+2102-02-07,bicarbonate,2,2
+2102-02-08,albumin,1,1
+2102-02-09,hgb,2,2
+2102-02-10,bedside glucose,3,3
+2102-02-11,bun,1,2
+2102-02-12,bedside glucose,2,2
+2102-02-13,creatinine,2,2
+2102-02-14,bedside glucose,2,2
+2102-02-15,bedside glucose,2,2
+2102-02-16,alkaline phos.,1,1
+2102-02-17,-lymphs,1,1
+2102-02-18,bun,2,2
+2102-02-19,bedside glucose,2,3
+2102-02-20,bedside glucose,2,2
+2102-02-21,hct,1,1
+2102-02-22,bedside glucose,2,2
+2102-02-23,bun,1,1
+2102-02-24,bedside glucose,1,1
+2102-02-25,bedside glucose,1,1
+2102-02-26,hgb,1,1
+2102-02-27,base excess,1,1
+2102-02-28,creatinine,1,1
+2102-03-01,-lymphs,1,1
+2102-03-02,bedside glucose,1,1
+2102-03-03,-lymphs,1,1
+2102-03-05,albumin,1,1
+2102-03-06,bedside glucose,3,6
+2102-03-07,-polys,1,1
+2102-03-08,platelets x 1000,2,2
+2102-03-09,alt (sgpt),1,1
+2102-03-10,bedside glucose,1,2
+2102-03-11,bedside glucose,2,2
+2102-03-12,albumin,1,1
+2102-03-13,bedside glucose,2,2
+2102-03-14,bedside glucose,3,3
+2102-03-15,bedside glucose,1,1
+2102-03-16,bedside glucose,1,1
+2102-03-17,bedside glucose,2,3
+2102-03-18,creatinine,3,3
+2102-03-19,bedside glucose,3,3
+2102-03-20,bedside glucose,3,3
+2102-03-21,bedside glucose,4,6
+2102-03-22,bun,2,2
+2102-03-23,potassium,2,2
+2102-03-24,bedside glucose,2,2
+2102-03-25,rbc,2,2
+2102-03-26,anion gap,3,3
+2102-03-27,hct,2,2
+2102-03-28,glucose,2,2
+2102-03-29,bedside glucose,2,2
+2102-03-30,bun,2,2
+2102-03-31,bedside glucose,2,2
+2102-04-01,bedside glucose,2,2
+2102-04-02,bedside glucose,2,2
+2102-04-03,creatinine,2,2
+2102-04-04,bun,2,2
+2102-04-05,bedside glucose,1,1
+2102-04-06,bedside glucose,1,1
+2102-04-07,bedside glucose,3,3
+2102-04-08,-lymphs,2,2
+2102-04-09,bedside glucose,2,3
+2102-04-10,creatinine,3,4
+2102-04-11,alkaline phos.,1,1
+2102-04-12,bedside glucose,1,1
+2102-04-14,hgb,1,1
+2102-04-15,creatinine,1,1
+2102-04-16,bedside glucose,2,2
+2102-04-17,bedside glucose,1,1
+2102-04-23,alt (sgpt),1,1
+2102-04-24,bedside glucose,2,2
+2102-04-25,bedside glucose,1,1
+2102-04-26,bedside glucose,2,2
+2102-04-27,bedside glucose,2,2
+2102-04-28,bedside glucose,1,1
+2102-04-29,bedside glucose,1,2
+2102-04-30,bedside glucose,1,1
+2102-05-01,hgb,1,1
+2102-05-02,platelets x 1000,1,1
+2102-05-03,-monos,1,1
+2102-05-04,alt (sgpt),1,1
+2102-05-05,pt,1,1
+2102-05-06,bedside glucose,1,1
+2102-05-07,bedside glucose,1,1
+2102-05-08,-lymphs,1,1
+2102-05-09,creatinine,1,1
+2102-05-11,rbc,1,2
+2102-05-12,glucose,1,1
+2102-05-13,glucose,1,1
+2102-05-14,glucose,1,1
+2102-05-16,-eos,1,1
+2102-05-17,bedside glucose,1,2
+2102-05-18,-lymphs,1,1
+2102-05-19,bedside glucose,2,2
+2102-05-21,bedside glucose,2,2
+2102-05-22,bedside glucose,2,2
+2102-05-24,calcium,1,1
+2102-05-25,bedside glucose,1,2
+2102-05-27,bun,1,2
+2102-05-28,bun,1,2
+2102-05-29,-lymphs,1,2
+2102-05-30,alkaline phos.,1,1
+2102-05-31,creatinine,2,2
+2102-06-01,anion gap,1,1
+2102-06-02,-monos,1,1
+2102-06-07,wbc x 1000,1,1
+2102-06-08,platelets x 1000,1,2
+2102-06-09,bun,1,1
+2102-06-10,platelets x 1000,2,2
+2102-06-11,bedside glucose,2,2
+2102-06-12,glucose,2,2
+2102-06-13,bedside glucose,2,2
+2102-06-14,anion gap,2,2
+2102-06-15,-lymphs,1,1
+2102-06-16,hgb,2,3
+2102-06-17,creatinine,2,2
+2102-06-18,bicarbonate,1,2
+2102-06-19,bedside glucose,3,3
+2102-06-20,creatinine,2,2
+2102-06-21,bedside glucose,3,4
+2102-06-22,-eos,1,1
+2102-06-23,bedside glucose,2,2
+2102-06-24,bedside glucose,2,2
+2102-06-25,bedside glucose,1,1
+2102-06-26,-basos,2,2
+2102-06-27,platelets x 1000,3,7
+2102-06-28,bedside glucose,5,6
+2102-06-29,bedside glucose,2,3
+2102-06-30,-polys,1,1
+2102-07-01,platelets x 1000,2,2
+2102-07-02,potassium,2,2
+2102-07-03,glucose,2,2
+2102-07-04,bedside glucose,2,2
+2102-07-05,-lymphs,1,1
+2102-07-06,albumin,1,1
+2102-07-07,bedside glucose,1,1
+2102-07-08,anion gap,1,1
+2102-07-09,anion gap,1,1
+2102-07-10,albumin,1,1
+2102-07-12,bun,1,1
+2102-07-13,bun,3,3
+2102-07-14,bedside glucose,2,2
+2102-07-15,alkaline phos.,1,1
+2102-07-16,-monos,1,1
+2102-07-17,bedside glucose,1,1
+2102-07-18,phosphate,1,1
+2102-07-19,bedside glucose,1,1
+2102-07-20,wbc x 1000,2,2
+2102-07-21,-monos,1,1
+2102-07-22,glucose,1,1
+2102-07-23,anion gap,1,1
+2102-07-24,creatinine,1,1
+2102-07-25,bicarbonate,1,1
+2102-07-26,bedside glucose,1,1
+2102-07-27,creatinine,1,2
+2102-07-28,creatinine,2,3
+2102-07-30,wbc x 1000,1,1
+2102-07-31,-eos,1,1
+2102-08-01,anion gap,1,1
+2102-08-02,anion gap,1,1
+2102-08-04,glucose,2,2
+2102-08-05,bun,1,1
+2102-08-06,alkaline phos.,1,1
+2102-08-07,rbc,1,1
+2102-08-08,bedside glucose,1,1
+2102-08-09,albumin,1,1
+2102-08-10,bedside glucose,2,2
+2102-08-11,alkaline phos.,2,2
+2102-08-12,potassium,2,2
+2102-08-13,bedside glucose,2,2
+2102-08-14,anion gap,1,1
+2102-08-15,bedside glucose,2,2
+2102-08-16,hct,2,2
+2102-08-17,wbc x 1000,3,3
+2102-08-18,bedside glucose,4,4
+2102-08-19,bedside glucose,5,5
+2102-08-20,bedside glucose,4,4
+2102-08-21,bedside glucose,2,2
+2102-08-22,bun,1,1
+2102-08-23,bedside glucose,2,2
+2102-08-24,-monos,1,1
+2102-08-25,bedside glucose,1,1
+2102-08-26,bedside glucose,2,2
+2102-08-27,bedside glucose,4,5
+2102-08-28,bedside glucose,3,4
+2102-08-29,bedside glucose,2,2
+2102-08-30,creatinine,1,1
+2102-09-03,potassium,1,1
+2102-09-07,-lymphs,1,1
+2102-09-08,bedside glucose,1,1
+2102-09-10,bedside glucose,1,1
+2102-09-11,bicarbonate,1,2
+2102-09-12,-eos,1,1
+2102-09-13,bedside glucose,2,4
+2102-09-14,-bands,1,1
+2102-09-15,bedside glucose,2,2
+2102-09-16,bedside glucose,2,3
+2102-09-17,-polys,1,1
+2102-09-18,bun,1,1
+2102-09-19,bedside glucose,1,1
+2102-09-25,-lymphs,1,1
+2102-09-26,potassium,1,3
+2102-09-27,bedside glucose,3,3
+2102-09-28,bedside glucose,2,2
+2102-09-29,bedside glucose,3,3
+2102-09-30,anion gap,1,1
+2102-10-01,bicarbonate,1,1
+2102-10-02,creatinine,2,2
+2102-10-06,-lymphs,1,1
+2102-10-07,wbc x 1000,2,2
+2102-10-08,creatinine,2,2
+2102-10-09,creatinine,2,2
+2102-10-10,ast (sgot),1,1
+2102-10-11,hct,1,1
+2102-10-12,bedside glucose,2,2
+2102-10-13,creatinine,1,1
+2102-10-14,bedside glucose,2,2
+2102-10-15,bedside glucose,3,3
+2102-10-16,-polys,1,1
+2102-10-17,phosphate,2,2
+2102-10-18,bedside glucose,3,3
+2102-10-19,rdw,2,2
+2102-10-20,-basos,1,1
+2102-10-21,bedside glucose,2,2
+2102-10-22,bedside glucose,2,4
+2102-10-23,bedside glucose,1,1
+2102-10-24,bedside glucose,2,3
+2102-10-25,bedside glucose,2,2
+2102-10-26,bedside glucose,1,1
+2102-10-27,bedside glucose,2,2
+2102-10-28,wbc x 1000,2,3
+2102-10-30,ast (sgot),1,1
+2102-11-01,bedside glucose,1,1
+2102-11-02,bedside glucose,1,1
+2102-11-03,bedside glucose,1,1
+2102-11-09,-lymphs,1,1
+2102-11-10,-basos,2,2
+2102-11-11,bedside glucose,2,2
+2102-11-12,-eos,1,1
+2102-11-13,bedside glucose,2,2
+2102-11-14,hct,3,3
+2102-11-15,bedside glucose,3,4
+2102-11-16,pao2,1,1
+2102-11-17,bedside glucose,1,1
+2102-11-18,alkaline phos.,1,1
+2102-11-19,anion gap,1,1
+2102-11-20,wbc x 1000,2,2
+2102-11-21,bedside glucose,1,1
+2102-11-22,-eos,1,1
+2102-12-02,bicarbonate,1,1
+2102-12-03,bedside glucose,2,3
+2102-12-04,platelets x 1000,2,3
+2102-12-05,bedside glucose,2,2
+2102-12-06,bedside glucose,2,2
+2102-12-07,bedside glucose,2,2
+2102-12-08,-monos,1,1
+2102-12-09,bedside glucose,2,2
+2102-12-10,hgb,2,2
+2102-12-11,bedside glucose,1,1
+2102-12-12,glucose,1,1
+2102-12-13,-polys,1,1
+2102-12-14,bedside glucose,2,3
+2102-12-15,-lymphs,3,3
+2102-12-16,bedside glucose,1,1
+2102-12-17,glucose,2,2
+2102-12-18,bicarbonate,1,1
+2102-12-19,glucose,1,1
+2102-12-20,bedside glucose,1,1
+2102-12-21,anion gap,1,1
+2102-12-22,bedside glucose,2,2
+2102-12-23,hco3,1,1
+2102-12-24,bedside glucose,2,3
+2102-12-25,glucose,2,3
+2102-12-26,creatinine,2,2
+2102-12-27,bedside glucose,1,1
+2102-12-28,bedside glucose,2,2
+2102-12-29,creatinine,1,1
+2102-12-30,albumin,1,1
+2102-12-31,-monos,1,1
+2103-01-01,bedside glucose,1,1
+2103-01-02,-monos,1,1
+2103-01-03,potassium,2,2
+2103-01-04,bicarbonate,1,1
+2103-01-05,bedside glucose,2,2
+2103-01-06,creatinine,2,2
+2103-01-07,-eos,1,2
+2103-01-08,-polys,2,2
+2103-01-09,creatinine,2,2
+2103-01-10,albumin,1,1
+2103-01-11,anion gap,1,1
+2103-01-12,anion gap,1,1
+2103-01-13,base excess,1,1
+2103-01-14,-lymphs,1,1
+2103-01-15,albumin,1,1
+2103-01-16,bedside glucose,1,2
+2103-01-17,bun,1,1
+2103-01-18,-monos,1,1
+2103-01-19,bedside glucose,1,1
+2103-01-20,anion gap,1,1
+2103-01-22,bedside glucose,1,1
+2103-01-26,anion gap,1,1
+2103-01-27,bun,2,2
+2103-01-28,hct,1,3
+2103-01-29,bedside glucose,2,2
+2103-01-30,bedside glucose,1,2
+2103-01-31,anion gap,1,1
+2103-02-01,bedside glucose,2,6
+2103-02-02,bedside glucose,2,2
+2103-02-03,hct,2,2
+2103-02-04,bedside glucose,2,3
+2103-02-05,-polys,1,1
+2103-02-06,bedside glucose,1,2
+2103-02-07,bedside glucose,1,1
+2103-02-08,hct,1,1
+2103-02-09,bedside glucose,2,2
+2103-02-10,bedside glucose,3,3
+2103-02-11,bedside glucose,2,2
+2103-02-12,bedside glucose,3,3
+2103-02-13,anion gap,1,1
+2103-02-14,glucose,2,2
+2103-02-15,bedside glucose,2,3
+2103-02-16,-monos,1,1
+2103-02-17,anion gap,2,2
+2103-02-18,bedside glucose,3,3
+2103-02-19,wbc x 1000,2,2
+2103-02-20,bedside glucose,1,1
+2103-02-21,bedside glucose,2,2
+2103-02-22,glucose,3,4
+2103-02-23,creatinine,2,2
+2103-02-24,bedside glucose,3,3
+2103-02-25,bedside glucose,2,2
+2103-02-26,bedside glucose,2,3
+2103-02-27,bedside glucose,3,3
+2103-02-28,bedside glucose,1,1
+2103-03-01,-polys,1,1
+2103-03-02,platelets x 1000,3,4
+2103-03-03,bedside glucose,6,6
+2103-03-04,bedside glucose,3,3
+2103-03-05,creatinine,2,2
+2103-03-06,bedside glucose,5,5
+2103-03-07,bedside glucose,3,4
+2103-03-08,bedside glucose,4,6
+2103-03-09,bedside glucose,4,4
+2103-03-10,bedside glucose,2,2
+2103-03-11,bedside glucose,2,3
+2103-03-12,bedside glucose,4,4
+2103-03-13,creatinine,3,3
+2103-03-14,hct,4,4
+2103-03-15,bedside glucose,5,5
+2103-03-16,bedside glucose,4,4
+2103-03-17,glucose,3,3
+2103-03-18,bedside glucose,5,8
+2103-03-19,anion gap,2,2
+2103-03-20,anion gap,2,2
+2103-03-21,bun,3,3
+2103-03-22,platelets x 1000,3,3
+2103-03-23,anion gap,2,2
+2103-03-24,bedside glucose,4,9
+2103-03-25,bedside glucose,3,4
+2103-03-26,bedside glucose,3,3
+2103-03-27,bedside glucose,3,3
+2103-03-28,bedside glucose,3,3
+2103-03-29,alkaline phos.,1,1
+2103-04-01,wbc x 1000,1,2
+2103-04-02,-eos,1,1
+2103-04-04,bicarbonate,2,2
+2103-04-05,bedside glucose,3,4
+2103-04-06,bedside glucose,2,2
+2103-04-07,-basos,1,1
+2103-04-08,bedside glucose,2,2
+2103-04-09,bicarbonate,2,2
+2103-04-10,wbc x 1000,2,2
+2103-04-11,bun,2,3
+2103-04-12,bun,3,3
+2103-04-13,bedside glucose,2,2
+2103-04-14,potassium,2,2
+2103-04-15,bedside glucose,2,5
+2103-04-16,bedside glucose,3,3
+2103-04-17,total bilirubin,2,2
+2103-04-18,bedside glucose,2,3
+2103-04-19,bedside glucose,1,1
+2103-04-20,bedside glucose,2,2
+2103-04-21,bedside glucose,3,3
+2103-04-22,bedside glucose,1,2
+2103-04-23,-monos,2,2
+2103-04-24,-lymphs,1,1
+2103-04-25,anion gap,1,1
+2103-04-26,bedside glucose,2,2
+2103-04-27,bedside glucose,2,4
+2103-04-28,anion gap,1,1
+2103-04-29,bedside glucose,1,1
+2103-04-30,bedside glucose,2,2
+2103-05-01,bedside glucose,4,4
+2103-05-02,bedside glucose,2,2
+2103-05-03,platelets x 1000,3,3
+2103-05-04,bedside glucose,2,3
+2103-05-05,wbc x 1000,2,2
+2103-05-06,bedside glucose,2,2
+2103-05-07,bedside glucose,2,2
+2103-05-08,hgb,3,3
+2103-05-09,bedside glucose,2,2
+2103-05-10,creatinine,2,2
+2103-05-11,bedside glucose,3,3
+2103-05-12,base excess,2,2
+2103-05-13,alt (sgpt),1,1
+2103-05-14,glucose,2,2
+2103-05-15,bedside glucose,2,2
+2103-05-16,bedside glucose,2,2
+2103-05-17,bedside glucose,3,4
+2103-05-18,bedside glucose,2,2
+2103-05-19,ast (sgot),1,1
+2103-05-20,bedside glucose,3,3
+2103-05-21,glucose,2,3
+2103-05-22,bedside glucose,5,5
+2103-05-23,creatinine,3,3
+2103-05-24,bedside glucose,6,8
+2103-05-25,anion gap,1,1
+2103-05-26,albumin,1,1
+2103-05-27,glucose,2,3
+2103-05-28,anion gap,1,1
+2103-05-29,wbc x 1000,2,2
+2103-05-30,anion gap,1,1
+2103-05-31,bedside glucose,1,1
+2103-06-01,bicarbonate,1,1
+2103-06-02,platelets x 1000,2,2
+2103-06-03,bedside glucose,2,2
+2103-06-04,bedside glucose,3,3
+2103-06-05,-monos,1,1
+2103-06-06,alt (sgpt),1,1
+2103-06-07,bedside glucose,2,2
+2103-06-08,ast (sgot),1,1
+2103-06-09,bedside glucose,3,4
+2103-06-10,bedside glucose,3,4
+2103-06-11,ast (sgot),1,1
+2103-06-12,anion gap,2,2
+2103-06-13,bun,2,2
+2103-06-14,bedside glucose,1,1
+2103-06-15,bun,3,3
+2103-06-16,-basos,1,1
+2103-06-17,bedside glucose,2,2
+2103-06-18,bedside glucose,1,1
+2103-06-19,wbc x 1000,2,3
+2103-06-20,glucose,2,2
+2103-06-21,bedside glucose,2,2
+2103-06-22,bedside glucose,2,2
+2103-06-23,bedside glucose,1,1
+2103-06-24,bedside glucose,1,1
+2103-06-25,-basos,1,1
+2103-06-26,bedside glucose,2,2
+2103-06-27,magnesium,2,2
+2103-06-28,creatinine,2,2
+2103-06-29,-lymphs,1,1
+2103-06-30,bedside glucose,1,2
+2103-07-01,bun,2,2
+2103-07-02,glucose,2,3
+2103-07-03,bedside glucose,4,4
+2103-07-04,anion gap,2,2
+2103-07-05,bedside glucose,2,2
+2103-07-06,anion gap,2,2
+2103-07-07,creatinine,2,2
+2103-07-08,bedside glucose,2,3
+2103-07-09,bun,2,2
+2103-07-10,bedside glucose,2,2
+2103-07-11,bedside glucose,3,3
+2103-07-12,bedside glucose,2,2
+2103-07-13,creatinine,4,5
+2103-07-14,bedside glucose,2,3
+2103-07-15,bicarbonate,2,2
+2103-07-16,bedside glucose,2,4
+2103-07-17,bedside glucose,3,5
+2103-07-18,bedside glucose,3,5
+2103-07-19,bedside glucose,2,2
+2103-07-20,bedside glucose,3,5
+2103-07-21,bedside glucose,3,5
+2103-07-22,bedside glucose,3,4
+2103-07-23,bedside glucose,3,3
+2103-07-24,bedside glucose,3,3
+2103-07-25,bedside glucose,5,5
+2103-07-26,bedside glucose,3,3
+2103-07-27,bedside glucose,3,3
+2103-07-28,bedside glucose,2,2
+2103-07-29,bedside glucose,3,3
+2103-07-30,bedside glucose,2,2
+2103-07-31,-eos,2,2
+2103-08-01,bedside glucose,2,2
+2103-08-02,rdw,2,2
+2103-08-03,bedside glucose,1,1
+2103-08-04,hct,1,1
+2103-08-07,bedside glucose,2,3
+2103-08-08,bun,2,2
+2103-08-09,bedside glucose,2,3
+2103-08-10,bedside glucose,1,1
+2103-08-11,-basos,1,1
+2103-08-12,-eos,1,1
+2103-08-13,-lymphs,1,1
+2103-08-14,-lymphs,1,1
+2103-08-15,bedside glucose,3,5
+2103-08-16,bun,4,4
+2103-08-17,bedside glucose,2,5
+2103-08-18,bun,2,2
+2103-08-19,bedside glucose,2,2
+2103-08-20,bedside glucose,2,3
+2103-08-21,calcium,2,2
+2103-08-22,bedside glucose,2,2
+2103-08-23,anion gap,1,1
+2103-08-24,bicarbonate,1,1
+2103-08-25,hct,1,1
+2103-08-26,glucose,1,1
+2103-08-27,bedside glucose,1,1
+2103-08-28,bicarbonate,1,1
+2103-08-29,-lymphs,1,1
+2103-08-30,ast (sgot),2,2
+2103-08-31,bedside glucose,2,3
+2103-09-01,bedside glucose,4,4
+2103-09-02,bedside glucose,2,2
+2103-09-03,mcv,1,1
+2103-09-04,bedside glucose,1,1
+2103-09-05,anion gap,2,2
+2103-09-06,bedside glucose,2,2
+2103-09-07,hgb,2,2
+2103-09-08,hct,2,2
+2103-09-09,bedside glucose,1,1
+2103-09-10,bedside glucose,1,1
+2103-09-11,bedside glucose,1,2
+2103-09-12,ast (sgot),1,1
+2103-09-13,bedside glucose,1,2
+2103-09-14,hgb,2,2
+2103-09-15,bedside glucose,3,3
+2103-09-16,bedside glucose,3,3
+2103-09-17,creatinine,3,3
+2103-09-18,-basos,1,1
+2103-09-19,-monos,1,1
+2103-09-20,hgb,1,1
+2103-09-21,bedside glucose,1,1
+2103-09-22,-eos,1,1
+2103-09-23,bun,1,1
+2103-09-24,anion gap,1,1
+2103-09-25,hct,1,1
+2103-09-28,albumin,1,1
+2103-10-02,bedside glucose,1,1
+2103-10-03,bedside glucose,1,1
+2103-10-05,-eos,1,1
+2103-10-06,-basos,1,1
+2103-10-07,wbc x 1000,2,2
+2103-10-08,bedside glucose,1,1
+2103-10-09,bedside glucose,2,3
+2103-10-10,bedside glucose,1,2
+2103-10-11,glucose,1,2
+2103-10-12,creatinine,2,3
+2103-10-13,bedside glucose,2,2
+2103-10-14,bedside glucose,2,2
+2103-10-15,-lymphs,2,2
+2103-10-16,bedside glucose,2,2
+2103-10-17,bedside glucose,2,2
+2103-10-18,bedside glucose,1,1
+2103-10-19,bedside glucose,2,2
+2103-10-20,creatinine,2,2
+2103-10-21,hgb,1,1
+2103-10-22,platelets x 1000,2,2
+2103-10-23,alkaline phos.,1,1
+2103-10-24,bedside glucose,1,1
+2103-10-25,bedside glucose,2,2
+2103-10-26,bedside glucose,2,2
+2103-10-27,bedside glucose,1,1
+2103-10-28,bedside glucose,2,2
+2103-10-29,creatinine,3,3
+2103-10-30,-basos,2,2
+2103-10-31,-monos,1,1
+2103-11-01,bedside glucose,2,2
+2103-11-02,creatinine,2,2
+2103-11-03,bedside glucose,2,2
+2103-11-04,-polys,1,1
+2103-11-05,ast (sgot),1,1
+2103-11-06,bedside glucose,2,2
+2103-11-07,anion gap,1,2
+2103-11-08,bedside glucose,2,2
+2103-11-09,bedside glucose,2,2
+2103-11-10,mpv,1,2
+2103-11-11,anion gap,1,1
+2103-11-13,platelets x 1000,2,2
+2103-11-14,wbc x 1000,2,2
+2103-11-17,albumin,2,2
+2103-11-18,anion gap,2,2
+2103-11-19,bedside glucose,2,3
+2103-11-20,-basos,1,1
+2103-11-21,bedside glucose,3,3
+2103-11-22,bedside glucose,2,2
+2103-11-23,bedside glucose,2,3
+2103-11-24,bedside glucose,2,2
+2103-11-25,-eos,1,1
+2103-11-26,glucose,2,2
+2103-11-27,-eos,2,2
+2103-11-28,wbc x 1000,2,3
+2103-11-29,bun,4,4
+2103-11-30,bedside glucose,3,4
+2103-12-01,creatinine,2,2
+2103-12-02,bedside glucose,2,2
+2103-12-03,bedside glucose,2,2
+2103-12-04,wbc x 1000,2,2
+2103-12-05,bedside glucose,2,2
+2103-12-06,-lymphs,1,1
+2103-12-07,bedside glucose,2,2
+2103-12-08,creatinine,3,3
+2103-12-09,bedside glucose,2,3
+2103-12-10,wbc x 1000,2,3
+2103-12-11,bedside glucose,3,3
+2103-12-12,albumin,1,1
+2103-12-13,bedside glucose,1,1
+2103-12-14,bedside glucose,2,2
+2103-12-15,anion gap,1,1
+2103-12-16,ast (sgot),1,1
+2103-12-17,ast (sgot),1,1
+2103-12-18,anion gap,1,1
+2103-12-19,methemoglobin,1,1
+2103-12-20,bedside glucose,2,3
+2103-12-21,anion gap,1,1
+2103-12-22,-monos,2,2
+2103-12-24,-monos,1,1
+2103-12-25,-lymphs,3,3
+2103-12-26,magnesium,2,2
+2103-12-27,bicarbonate,2,2
+2103-12-28,bedside glucose,2,2
+2103-12-29,anion gap,1,1
+2103-12-30,bedside glucose,2,3
+2104-01-01,bedside glucose,2,2
+2104-01-02,-basos,1,1
+2104-01-03,-monos,1,1
+2104-01-04,glucose,2,3
+2104-01-05,-eos,1,1
+2104-01-06,bedside glucose,2,2
+2104-01-07,-polys,1,1
+2104-01-08,platelets x 1000,2,3
+2104-01-09,bedside glucose,2,2
+2104-01-10,bedside glucose,4,4
+2104-01-11,bedside glucose,3,3
+2104-01-12,-lymphs,2,2
+2104-01-13,bedside glucose,4,5
+2104-01-14,bedside glucose,3,4
+2104-01-15,bedside glucose,2,2
+2104-01-16,bedside glucose,2,2
+2104-01-17,bedside glucose,2,2
+2104-01-18,-lymphs,2,2
+2104-01-19,bedside glucose,4,5
+2104-01-20,bun,2,2
+2104-01-21,bedside glucose,3,3
+2104-01-22,bun,2,2
+2104-01-23,bedside glucose,6,7
+2104-01-24,creatinine,3,3
+2104-01-25,bedside glucose,3,4
+2104-01-26,anion gap,3,3
+2104-01-27,bedside glucose,2,2
+2104-01-28,bedside glucose,1,2
+2104-01-29,glucose,1,1
+2104-01-30,-lymphs,1,1
+2104-01-31,-monos,1,1
+2104-02-01,bedside glucose,5,6
+2104-02-02,bedside glucose,5,7
+2104-02-03,bedside glucose,4,4
+2104-02-04,bedside glucose,2,3
+2104-02-05,bedside glucose,4,4
+2104-02-06,bedside glucose,3,3
+2104-02-07,bedside glucose,3,3
+2104-02-08,bedside glucose,2,2
+2104-02-09,bicarbonate,3,3
+2104-02-10,hgb,3,3
+2104-02-11,bedside glucose,3,3
+2104-02-12,bedside glucose,3,3
+2104-02-13,wbc x 1000,3,4
+2104-02-14,bedside glucose,3,3
+2104-02-15,bun,3,3
+2104-02-16,bedside glucose,2,2
+2104-02-17,glucose,2,2
+2104-02-18,-eos,1,1
+2104-02-19,bedside glucose,3,4
+2104-02-20,-basos,1,1
+2104-02-21,bedside glucose,2,2
+2104-02-22,bedside glucose,2,5
+2104-02-23,bedside glucose,2,3
+2104-02-24,bedside glucose,3,5
+2104-02-25,albumin,1,1
+2104-02-26,bedside glucose,2,2
+2104-02-27,bedside glucose,3,3
+2104-02-28,-lymphs,2,2
+2104-02-29,bun,2,2
+2104-03-01,bedside glucose,2,4
+2104-03-02,glucose,3,3
+2104-03-03,bedside glucose,4,4
+2104-03-04,bedside glucose,4,4
+2104-03-05,hct,2,2
+2104-03-06,creatinine,1,1
+2104-03-07,hgb,1,1
+2104-03-08,bedside glucose,2,4
+2104-03-09,-lymphs,1,1
+2104-03-10,bedside glucose,2,2
+2104-03-11,glucose,2,2
+2104-03-12,bedside glucose,1,1
+2104-03-13,bedside glucose,1,1
+2104-03-14,-basos,1,1
+2104-03-15,bedside glucose,2,3
+2104-03-16,bedside glucose,2,2
+2104-03-17,glucose,2,2
+2104-03-18,hgb,2,2
+2104-03-19,anion gap,2,2
+2104-03-20,bedside glucose,2,4
+2104-03-21,anion gap,2,2
+2104-03-22,bicarbonate,1,1
+2104-03-23,albumin,1,1
+2104-03-24,bedside glucose,3,3
+2104-03-25,alt (sgpt),1,1
+2104-03-26,-eos,2,2
+2104-03-27,bedside glucose,3,4
+2104-03-28,bedside glucose,2,4
+2104-03-29,bedside glucose,2,3
+2104-03-30,bedside glucose,3,4
+2104-03-31,anion gap,3,3
+2104-04-01,creatinine,2,3
+2104-04-02,bedside glucose,3,3
+2104-04-03,platelets x 1000,2,2
+2104-04-04,anion gap,3,3
+2104-04-05,bun,3,3
+2104-04-06,glucose,1,1
+2104-04-07,bun,2,2
+2104-04-08,bedside glucose,2,3
+2104-04-09,bedside glucose,2,2
+2104-04-10,bedside glucose,2,2
+2104-04-11,glucose,3,4
+2104-04-12,bedside glucose,3,4
+2104-04-13,bedside glucose,2,4
+2104-04-14,bedside glucose,3,3
+2104-04-15,anion gap,1,1
+2104-04-16,bedside glucose,2,3
+2104-04-17,glucose,3,4
+2104-04-18,bedside glucose,3,3
+2104-04-19,bedside glucose,4,4
+2104-04-20,creatinine,2,2
+2104-04-21,bedside glucose,3,4
+2104-04-22,anion gap,2,2
+2104-04-23,bedside glucose,2,2
+2104-04-24,bedside glucose,2,2
+2104-04-25,bedside glucose,2,2
+2104-04-26,bedside glucose,2,2
+2104-04-27,bedside glucose,4,4
+2104-04-28,-lymphs,2,2
+2104-04-29,fio2,3,3
+2104-04-30,bedside glucose,7,7
+2104-05-01,bedside glucose,4,4
+2104-05-02,creatinine,2,2
+2104-05-03,bedside glucose,2,2
+2104-05-04,-polys,1,1
+2104-05-05,bedside glucose,2,3
+2104-05-06,alt (sgpt),1,1
+2104-05-07,bedside glucose,3,3
+2104-05-08,alt (sgpt),1,1
+2104-05-09,-eos,1,1
+2104-05-11,bun,3,3
+2104-05-12,bedside glucose,3,5
+2104-05-13,bun,2,2
+2104-05-14,rbc,2,2
+2104-05-15,bedside glucose,2,2
+2104-05-16,bedside glucose,3,4
+2104-05-17,bun,1,1
+2104-05-18,bicarbonate,1,1
+2104-05-19,anion gap,1,1
+2104-05-20,anion gap,1,1
+2104-05-21,-basos,1,1
+2104-05-22,bedside glucose,3,3
+2104-05-23,glucose,1,2
+2104-05-24,bedside glucose,2,5
+2104-05-25,bedside glucose,2,2
+2104-05-26,glucose,1,1
+2104-05-27,-basos,1,1
+2104-05-28,bedside glucose,1,1
+2104-05-29,magnesium,1,1
+2104-05-30,bedside glucose,1,2
+2104-05-31,creatinine,2,3
+2104-06-01,platelets x 1000,1,2
+2104-06-02,bedside glucose,3,3
+2104-06-03,bedside glucose,3,3
+2104-06-04,bedside glucose,4,4
+2104-06-05,glucose,2,2
+2104-06-06,bedside glucose,3,5
+2104-06-07,bedside glucose,3,4
+2104-06-08,bedside glucose,2,2
+2104-06-09,creatinine,3,4
+2104-06-10,bedside glucose,2,2
+2104-06-11,bedside glucose,3,4
+2104-06-12,bedside glucose,2,2
+2104-06-13,bedside glucose,4,5
+2104-06-14,bedside glucose,5,7
+2104-06-15,bedside glucose,2,2
+2104-06-16,-polys,1,1
+2104-06-17,bedside glucose,1,1
+2104-06-18,bedside glucose,1,1
+2104-06-19,bun,1,1
+2104-06-22,base excess,1,1
+2104-06-23,alt (sgpt),1,1
+2104-06-24,-lymphs,1,1
+2104-06-25,bedside glucose,1,1
+2104-06-27,anion gap,1,1
+2104-06-28,bedside glucose,2,2
+2104-06-29,platelets x 1000,2,2
+2104-06-30,bedside glucose,1,1
+2104-07-02,potassium,2,2
+2104-07-03,anion gap,1,1
+2104-07-04,-lymphs,1,1
+2104-07-05,bedside glucose,3,3
+2104-07-06,creatinine,4,4
+2104-07-07,wbc x 1000,4,5
+2104-07-08,bedside glucose,3,3
+2104-07-09,bedside glucose,3,4
+2104-07-10,bedside glucose,4,4
+2104-07-11,bun,3,3
+2104-07-12,bedside glucose,5,5
+2104-07-13,bedside glucose,4,4
+2104-07-14,bedside glucose,2,3
+2104-07-15,bedside glucose,3,4
+2104-07-16,bedside glucose,2,2
+2104-07-17,bedside glucose,2,2
+2104-07-18,rbc,2,2
+2104-07-19,-monos,1,1
+2104-07-20,bedside glucose,2,2
+2104-07-21,bedside glucose,2,2
+2104-07-22,hgb,2,2
+2104-07-23,anion gap,1,1
+2104-07-24,potassium,2,2
+2104-07-25,-lymphs,1,1
+2104-07-26,-basos,1,1
+2104-07-27,bedside glucose,2,2
+2104-07-28,bedside glucose,3,3
+2104-07-29,bedside glucose,4,4
+2104-07-30,bedside glucose,1,1
+2104-07-31,rbc,1,1
+2104-08-01,bedside glucose,4,4
+2104-08-02,bedside glucose,2,2
+2104-08-03,bedside glucose,2,2
+2104-08-04,bedside glucose,3,3
+2104-08-05,bun,3,3
+2104-08-06,bedside glucose,3,3
+2104-08-07,alt (sgpt),1,1
+2104-08-08,bedside glucose,2,2
+2104-08-09,bedside glucose,1,2
+2104-08-10,bedside glucose,3,3
+2104-08-11,bun,2,2
+2104-08-12,glucose,3,3
+2104-08-13,bedside glucose,3,3
+2104-08-14,bedside glucose,2,2
+2104-08-15,rbc,2,2
+2104-08-16,bun,3,3
+2104-08-17,bedside glucose,4,4
+2104-08-18,hct,3,3
+2104-08-19,bedside glucose,4,4
+2104-08-20,bedside glucose,2,2
+2104-08-21,bedside glucose,2,2
+2104-08-22,anion gap,1,1
+2104-08-23,bicarbonate,1,1
+2104-08-24,creatinine,2,2
+2104-08-25,-eos,1,1
+2104-08-26,bedside glucose,1,1
+2104-08-27,bun,1,1
+2104-08-28,bedside glucose,3,3
+2104-08-29,bun,2,3
+2104-08-30,base excess,2,2
+2104-08-31,bedside glucose,2,2
+2104-09-01,magnesium,1,1
+2104-09-02,anion gap,1,1
+2104-09-03,-eos,1,1
+2104-09-04,-monos,1,1
+2104-09-05,bedside glucose,2,2
+2104-09-06,-basos,1,1
+2104-09-07,bedside glucose,2,4
+2104-09-08,albumin,1,1
+2104-09-09,bedside glucose,2,2
+2104-09-10,bun,2,2
+2104-09-11,bedside glucose,2,2
+2104-09-12,bedside glucose,1,1
+2104-09-13,bedside glucose,1,1
+2104-09-14,bedside glucose,2,2
+2104-09-15,bedside glucose,3,6
+2104-09-16,bedside glucose,4,6
+2104-09-17,anion gap,2,2
+2104-09-18,ast (sgot),1,1
+2104-09-19,bedside glucose,1,1
+2104-09-20,creatinine,2,2
+2104-09-21,bedside glucose,2,2
+2104-09-22,bedside glucose,1,1
+2104-09-23,creatinine,2,2
+2104-09-24,bedside glucose,2,2
+2104-09-25,total bilirubin,2,3
+2104-09-26,bedside glucose,4,5
+2104-09-27,bedside glucose,3,3
+2104-09-28,glucose,4,4
+2104-09-29,bicarbonate,1,1
+2104-09-30,bedside glucose,2,2
+2104-10-01,bedside glucose,3,5
+2104-10-02,glucose,2,2
+2104-10-03,-polys,2,2
+2104-10-04,creatinine,2,2
+2104-10-05,bedside glucose,4,4
+2104-10-06,bedside glucose,3,4
+2104-10-07,bedside glucose,2,2
+2104-10-08,albumin,1,1
+2104-10-09,creatinine,2,3
+2104-10-10,bedside glucose,3,3
+2104-10-11,potassium,2,2
+2104-10-12,bedside glucose,2,3
+2104-10-13,bedside glucose,3,3
+2104-10-14,bedside glucose,2,2
+2104-10-15,bedside glucose,2,2
+2104-10-16,bedside glucose,2,2
+2104-10-17,bedside glucose,2,2
+2104-10-18,creatinine,2,2
+2104-10-19,bedside glucose,1,1
+2104-10-20,rbc,1,1
+2104-10-23,-polys,1,1
+2104-10-24,glucose,2,3
+2104-10-25,bedside glucose,1,2
+2104-10-26,hgb,1,1
+2104-10-27,anion gap,1,1
+2104-10-28,bedside glucose,2,3
+2104-10-29,bedside glucose,3,3
+2104-10-30,bedside glucose,2,2
+2104-10-31,bedside glucose,2,2
+2104-11-01,bedside glucose,3,3
+2104-11-02,creatinine,2,2
+2104-11-03,creatinine,3,3
+2104-11-04,bedside glucose,2,3
+2104-11-05,bedside glucose,6,6
+2104-11-06,glucose,4,5
+2104-11-07,hgb,4,4
+2104-11-08,anion gap,2,2
+2104-11-09,alt (sgpt),2,2
+2104-11-10,wbc x 1000,3,3
+2104-11-11,bedside glucose,2,2
+2104-11-12,-lymphs,1,2
+2104-11-13,anion gap,1,1
+2104-11-14,hgb,2,2
+2104-11-15,ast (sgot),1,1
+2104-11-16,bedside glucose,4,4
+2104-11-17,hgb,2,2
+2104-11-18,bun,2,2
+2104-11-19,bun,1,1
+2104-11-20,wbc x 1000,2,2
+2104-11-21,bedside glucose,2,2
+2104-11-22,bedside glucose,2,2
+2104-11-23,bedside glucose,1,1
+2104-11-24,wbc x 1000,1,3
+2104-11-25,bedside glucose,1,2
+2104-11-26,bedside glucose,1,1
+2104-11-27,hct,2,2
+2104-11-28,hct,2,2
+2104-11-29,creatinine,3,4
+2104-11-30,bedside glucose,4,4
+2104-12-01,bedside glucose,1,1
+2104-12-02,bicarbonate,1,1
+2104-12-03,-eos,1,1
+2104-12-08,-lymphs,1,1
+2104-12-09,bedside glucose,2,3
+2104-12-10,bedside glucose,3,4
+2104-12-11,bedside glucose,3,5
+2104-12-12,anion gap,1,1
+2104-12-13,base excess,1,1
+2104-12-14,hct,1,1
+2104-12-15,bedside glucose,1,1
+2104-12-16,bedside glucose,1,1
+2104-12-17,bun,3,3
+2104-12-18,anion gap,1,1
+2104-12-19,bun,2,2
+2104-12-20,anion gap,2,2
+2104-12-21,wbc x 1000,2,2
+2104-12-22,hct,1,2
+2104-12-23,bedside glucose,1,1
+2104-12-24,bedside glucose,2,2
+2104-12-25,bun,2,3
+2104-12-26,bedside glucose,2,2
+2104-12-27,bedside glucose,2,4
+2104-12-28,bedside glucose,3,3
+2104-12-29,bedside glucose,3,3
+2104-12-30,-lymphs,1,1
+2104-12-31,bedside glucose,1,1
+2105-01-01,bun,2,2
+2105-01-02,bedside glucose,2,2
+2105-01-03,bedside glucose,3,3
+2105-01-04,bun,2,2
+2105-01-05,bun,2,3
+2105-01-06,bedside glucose,2,2
+2105-01-07,creatinine,2,2
+2105-01-08,bedside glucose,2,3
+2105-01-09,bedside glucose,4,5
+2105-01-10,bedside glucose,3,4
+2105-01-11,-lymphs,2,2
+2105-01-12,bedside glucose,2,3
+2105-01-13,bedside glucose,2,2
+2105-01-14,platelets x 1000,2,3
+2105-01-15,bedside glucose,3,3
+2105-01-16,fio2,1,2
+2105-01-17,bedside glucose,3,5
+2105-01-18,bedside glucose,4,7
+2105-01-19,bedside glucose,9,9
+2105-01-20,bedside glucose,5,5
+2105-01-21,bun,3,3
+2105-01-22,bedside glucose,4,4
+2105-01-23,bedside glucose,2,2
+2105-01-24,bedside glucose,3,3
+2105-01-25,bedside glucose,3,4
+2105-01-26,bun,4,4
+2105-01-27,bedside glucose,3,3
+2105-01-28,bun,3,3
+2105-01-29,bedside glucose,4,4
+2105-01-30,bedside glucose,3,3
+2105-01-31,bedside glucose,3,3
+2105-02-01,bedside glucose,4,5
+2105-02-02,bedside glucose,3,4
+2105-02-03,bedside glucose,5,7
+2105-02-04,bedside glucose,5,6
+2105-02-05,bedside glucose,5,9
+2105-02-06,creatinine,5,5
+2105-02-07,bedside glucose,2,2
+2105-02-08,bedside glucose,5,6
+2105-02-09,bedside glucose,4,4
+2105-02-10,bedside glucose,3,3
+2105-02-11,bedside glucose,3,3
+2105-02-12,bedside glucose,4,4
+2105-02-13,wbc x 1000,2,3
+2105-02-14,bedside glucose,2,2
+2105-02-15,creatinine,2,2
+2105-02-16,bedside glucose,3,4
+2105-02-17,bedside glucose,3,3
+2105-02-18,rbc,2,2
+2105-02-19,anion gap,2,2
+2105-02-20,bedside glucose,2,2
+2105-02-21,bedside glucose,5,6
+2105-02-22,bedside glucose,6,7
+2105-02-23,bedside glucose,5,7
+2105-02-24,glucose,3,4
+2105-02-25,bedside glucose,5,5
+2105-02-26,bedside glucose,4,4
+2105-02-27,bedside glucose,2,2
+2105-02-28,bedside glucose,4,4
+2105-03-01,bedside glucose,2,2
+2105-03-02,bedside glucose,2,2
+2105-03-03,-polys,1,1
+2105-03-04,bedside glucose,1,1
+2105-03-05,bedside glucose,3,4
+2105-03-06,bedside glucose,2,3
+2105-03-07,bedside glucose,2,2
+2105-03-08,bedside glucose,4,4
+2105-03-09,rbc,3,3
+2105-03-10,bedside glucose,3,3
+2105-03-11,bedside glucose,2,2
+2105-03-12,bun,3,3
+2105-03-13,bedside glucose,4,6
+2105-03-14,anion gap,2,2
+2105-03-15,bun,3,3
+2105-03-16,bedside glucose,4,4
+2105-03-17,bedside glucose,1,1
+2105-03-18,bedside glucose,2,2
+2105-03-19,albumin,1,1
+2105-03-20,-eos,1,1
+2105-03-22,bedside glucose,1,1
+2105-03-25,creatinine,1,2
+2105-03-26,bedside glucose,2,2
+2105-03-27,bedside glucose,4,6
+2105-03-28,platelets x 1000,2,2
+2105-03-29,anion gap,2,2
+2105-03-30,bedside glucose,2,2
+2105-03-31,bedside glucose,2,2
+2105-04-01,bedside glucose,2,3
+2105-04-02,bedside glucose,2,3
+2105-04-03,bedside glucose,2,2
+2105-04-04,bedside glucose,2,2
+2105-04-05,bedside glucose,2,2
+2105-04-06,bedside glucose,2,2
+2105-04-07,bun,3,4
+2105-04-08,bedside glucose,3,3
+2105-04-09,-monos,1,1
+2105-04-10,creatinine,2,2
+2105-04-11,-monos,1,1
+2105-04-12,bedside glucose,2,2
+2105-04-13,bedside glucose,3,3
+2105-04-14,bedside glucose,6,8
+2105-04-15,bedside glucose,2,2
+2105-04-16,glucose,4,4
+2105-04-17,bedside glucose,2,2
+2105-04-18,bedside glucose,3,3
+2105-04-19,bedside glucose,4,4
+2105-04-20,bedside glucose,2,2
+2105-04-21,bedside glucose,2,2
+2105-04-22,-monos,1,1
+2105-04-23,anion gap,1,1
+2105-04-24,bedside glucose,2,2
+2105-04-25,potassium,2,2
+2105-04-26,bun,2,2
+2105-04-27,bedside glucose,2,2
+2105-04-28,bedside glucose,3,5
+2105-04-29,bedside glucose,2,3
+2105-04-30,bedside glucose,4,5
+2105-05-01,albumin,2,2
+2105-05-02,bedside glucose,1,1
+2105-05-03,bedside glucose,1,1
+2105-05-04,bedside glucose,2,2
+2105-05-05,bedside glucose,2,2
+2105-05-06,bedside glucose,2,2
+2105-05-07,bedside glucose,2,2
+2105-05-08,albumin,1,1
+2105-05-09,glucose,2,2
+2105-05-10,anion gap,2,2
+2105-05-11,bedside glucose,2,2
+2105-05-12,bedside glucose,1,2
+2105-05-13,bedside glucose,2,4
+2105-05-14,anion gap,1,1
+2105-05-15,bedside glucose,1,1
+2105-05-16,bun,1,1
+2105-05-17,glucose,2,2
+2105-05-18,hgb,1,1
+2105-05-19,-monos,2,2
+2105-05-20,bedside glucose,3,3
+2105-05-21,bun,2,2
+2105-05-22,bedside glucose,2,3
+2105-05-23,-lymphs,1,1
+2105-05-24,bedside glucose,2,2
+2105-05-25,bedside glucose,3,3
+2105-05-26,rbc,4,5
+2105-05-27,bedside glucose,2,5
+2105-05-28,bedside glucose,3,3
+2105-05-29,bedside glucose,4,6
+2105-05-30,bedside glucose,5,5
+2105-05-31,bedside glucose,3,3
+2105-06-01,bedside glucose,4,5
+2105-06-02,bun,4,4
+2105-06-03,bun,5,5
+2105-06-04,bedside glucose,3,3
+2105-06-05,bedside glucose,1,2
+2105-06-06,alt (sgpt),2,2
+2105-06-07,albumin,1,1
+2105-06-08,bedside glucose,4,4
+2105-06-09,bedside glucose,2,2
+2105-06-10,bedside glucose,4,4
+2105-06-11,bedside glucose,2,2
+2105-06-12,bedside glucose,3,5
+2105-06-13,bedside glucose,3,3
+2105-06-14,creatinine,3,3
+2105-06-15,potassium,2,2
+2105-06-16,-basos,1,1
+2105-06-17,bicarbonate,2,2
+2105-06-18,bedside glucose,2,3
+2105-06-19,-eos,1,1
+2105-06-20,-monos,1,1
+2105-06-21,-monos,1,1
+2105-06-22,-lymphs,1,1
+2105-06-23,hct,2,2
+2105-06-24,hgb,2,2
+2105-06-25,bedside glucose,3,5
+2105-06-26,bedside glucose,3,6
+2105-06-27,bedside glucose,2,3
+2105-06-28,bedside glucose,4,6
+2105-06-29,hgb,2,2
+2105-06-30,bedside glucose,3,4
+2105-07-01,bicarbonate,2,2
+2105-07-02,bedside glucose,4,4
+2105-07-03,platelets x 1000,3,3
+2105-07-04,bedside glucose,2,2
+2105-07-05,-lymphs,1,1
+2105-07-06,platelets x 1000,4,4
+2105-07-07,bedside glucose,2,2
+2105-07-08,bedside glucose,2,2
+2105-07-09,bedside glucose,3,3
+2105-07-10,bedside glucose,4,4
+2105-07-11,bedside glucose,2,2
+2105-07-12,albumin,1,1
+2105-07-13,bedside glucose,1,1
+2105-07-14,bedside glucose,2,2
+2105-07-15,glucose,2,2
+2105-07-16,-basos,1,1
+2105-07-17,bedside glucose,2,3
+2105-07-18,bedside glucose,3,3
+2105-07-19,bedside glucose,3,4
+2105-07-20,bedside glucose,3,4
+2105-07-21,bedside glucose,4,4
+2105-07-22,glucose,2,2
+2105-07-23,-basos,1,1
+2105-07-24,bedside glucose,2,2
+2105-07-25,bedside glucose,2,2
+2105-07-26,albumin,1,1
+2105-07-28,-polys,1,1
+2105-07-29,bedside glucose,2,2
+2105-07-30,creatinine,2,2
+2105-07-31,potassium,2,2
+2105-08-01,bedside glucose,4,4
+2105-08-02,bun,3,3
+2105-08-03,bedside glucose,3,4
+2105-08-04,bicarbonate,3,3
+2105-08-05,wbc x 1000,2,2
+2105-08-06,anion gap,2,3
+2105-08-07,bedside glucose,2,2
+2105-08-08,bedside glucose,3,4
+2105-08-09,bun,2,2
+2105-08-10,bedside glucose,3,3
+2105-08-11,bedside glucose,4,4
+2105-08-12,bedside glucose,3,3
+2105-08-13,bedside glucose,4,4
+2105-08-14,bedside glucose,2,2
+2105-08-15,bun,2,2
+2105-08-16,anion gap,2,2
+2105-08-17,bedside glucose,3,3
+2105-08-18,bedside glucose,3,4
+2105-08-19,bedside glucose,4,4
+2105-08-20,bedside glucose,2,2
+2105-08-21,bedside glucose,2,2
+2105-08-22,anion gap,1,1
+2105-08-23,bedside glucose,2,2
+2105-08-24,anion gap,1,1
+2105-08-25,bedside glucose,2,2
+2105-08-26,bedside glucose,2,3
+2105-08-27,bedside glucose,2,2
+2105-08-28,bedside glucose,4,4
+2105-08-29,bedside glucose,4,4
+2105-08-30,bedside glucose,7,9
+2105-08-31,bedside glucose,2,2
+2105-09-01,potassium,1,2
+2105-09-02,bedside glucose,4,4
+2105-09-03,bedside glucose,6,6
+2105-09-04,bedside glucose,5,5
+2105-09-05,bun,5,5
+2105-09-06,platelets x 1000,7,7
+2105-09-07,bedside glucose,5,6
+2105-09-08,bedside glucose,6,6
+2105-09-09,hgb,3,3
+2105-09-10,glucose,4,4
+2105-09-11,bedside glucose,6,6
+2105-09-12,bedside glucose,5,5
+2105-09-13,bedside glucose,4,4
+2105-09-14,total bilirubin,3,3
+2105-09-15,bedside glucose,3,3
+2105-09-16,bedside glucose,2,5
+2105-09-17,bedside glucose,3,5
+2105-09-18,bedside glucose,2,2
+2105-09-19,creatinine,1,1
+2105-09-20,-lymphs,1,1
+2105-09-21,bedside glucose,4,7
+2105-09-22,bedside glucose,5,6
+2105-09-23,bedside glucose,4,4
+2105-09-24,alt (sgpt),2,2
+2105-09-25,bedside glucose,4,4
+2105-09-26,bedside glucose,2,2
+2105-09-27,bedside glucose,3,3
+2105-09-28,bedside glucose,3,3
+2105-09-29,bedside glucose,2,3
+2105-09-30,-monos,1,1
+2105-10-01,bedside glucose,3,3
+2105-10-02,anion gap,3,3
+2105-10-03,bedside glucose,3,4
+2105-10-04,alt (sgpt),2,2
+2105-10-05,-monos,1,1
+2105-10-06,bun,2,2
+2105-10-07,-eos,1,1
+2105-10-08,rbc,1,1
+2105-10-09,ast (sgot),1,1
+2105-10-10,-eos,1,1
+2105-10-11,bedside glucose,2,4
+2105-10-12,platelets x 1000,1,1
+2105-10-13,albumin,1,1
+2105-10-14,creatinine,2,3
+2105-10-15,albumin,1,1
+2105-10-16,platelets x 1000,2,2
+2105-10-17,-lymphs,1,1
+2105-10-18,-basos,1,1
+2105-10-19,glucose,3,4
+2105-10-20,creatinine,3,4
+2105-10-21,bun,2,3
+2105-10-22,bedside glucose,1,1
+2105-10-23,anion gap,1,1
+2105-10-25,bedside glucose,1,1
+2105-10-29,-monos,1,1
+2105-10-30,ast (sgot),1,1
+2105-10-31,bicarbonate,1,1
+2105-11-02,bun,1,1
+2105-11-03,bedside glucose,1,2
+2105-11-04,creatinine,2,2
+2105-11-05,-basos,1,1
+2105-11-06,bedside glucose,2,3
+2105-11-07,glucose,2,2
+2105-11-08,platelets x 1000,3,3
+2105-11-09,bicarbonate,3,3
+2105-11-10,-lymphs,2,2
+2105-11-11,bedside glucose,3,4
+2105-11-12,bedside glucose,2,2
+2105-11-13,-eos,1,1
+2105-11-14,bedside glucose,3,4
+2105-11-15,bedside glucose,2,3
+2105-11-16,bedside glucose,3,3
+2105-11-17,potassium,3,3
+2105-11-18,bedside glucose,2,2
+2105-11-19,-monos,1,1
+2105-11-20,ast (sgot),1,1
+2105-11-21,anion gap,2,2
+2105-11-22,bedside glucose,3,5
+2105-11-23,bedside glucose,5,5
+2105-11-24,bedside glucose,4,4
+2105-11-25,bedside glucose,3,3
+2105-11-26,bedside glucose,2,3
+2105-11-27,bedside glucose,4,4
+2105-11-28,bedside glucose,3,3
+2105-11-29,bun,3,3
+2105-11-30,bedside glucose,2,4
+2105-12-01,bedside glucose,3,3
+2105-12-02,bedside glucose,2,2
+2105-12-03,bedside glucose,2,2
+2105-12-04,creatinine,2,2
+2105-12-05,bedside glucose,2,5
+2105-12-06,bedside glucose,2,2
+2105-12-07,creatinine,2,2
+2105-12-08,bedside glucose,4,4
+2105-12-09,bun,3,3
+2105-12-10,-lymphs,1,1
+2105-12-11,bedside glucose,4,4
+2105-12-12,anion gap,1,1
+2105-12-13,bedside glucose,2,2
+2105-12-14,bedside glucose,2,2
+2105-12-15,bedside glucose,3,5
+2105-12-16,bedside glucose,5,5
+2105-12-17,bedside glucose,5,5
+2105-12-18,bedside glucose,6,8
+2105-12-19,bedside glucose,5,6
+2105-12-20,bedside glucose,8,12
+2105-12-21,bedside glucose,12,13
+2105-12-22,bedside glucose,9,12
+2105-12-23,bedside glucose,10,10
+2105-12-24,bedside glucose,15,18
+2105-12-25,bedside glucose,21,29
+2105-12-26,bedside glucose,26,28
+2105-12-27,bedside glucose,24,25
+2105-12-28,bedside glucose,34,40
+2105-12-29,bedside glucose,40,46
+2105-12-30,bedside glucose,50,61
+2105-12-31,bedside glucose,36,40

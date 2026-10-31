@@ -1,0 +1,10 @@
+{
+  "contract": "streamsqlbench_no_rows_control_export_v1",
+  "source_campaign_sha256": "4ab988abfb2c0411e4fa1bbae2e483375214d93c641c7994c2cc8f5e63a47dd6",
+  "no_rows_payload_sha256": "cdfc073c50f5cd7cc9ea1fd3edbe3176ae9d702c1a79afb4c1931e4f8635d27c",
+  "exporter_sha256": "d190317608113594490fcd37302cad1a57d05be28fb7a339270b59f59988e90e",
+  "documents": 806,
+  "tasks": 402,
+  "source_bindings": 547,
+  "complete_source_payloads_hashed_again": false
+}

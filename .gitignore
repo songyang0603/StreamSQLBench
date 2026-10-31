@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*.class
+.pytest_cache/
+.venv/
+dist/
+build/
+*.egg-info/
+.DS_Store
+
+# Local credentials, bindings, and experiment outputs
+.env
+.env.*
+!.env.example
+.venv*/
+**/config/runtime-binding.json
+**/outputs/
+**/source-map.local.json
+**/evaluation-map.local.json
+
+# Rebuilt upstream sources and downloads (never committed)
+benchmark/sources/
+benchmark/.downloads/
+benchmark/.cache/
+
+# Compiled helper deployed with the paper run (listed in StreamSQLAgent/provenance/code-listing.json)
+!StreamSQLAgent/runtime_support/streamsqlbench_curation/OrderedSchema.class
+
+# Downloaded dataset (reproduction/download_data.py --output data-root)
+data-root/
